@@ -13,7 +13,7 @@
 [![100% lokal](https://img.shields.io/badge/100%25-lokal%20%C2%B7%20kein%20Login-8957e5?style=for-the-badge)](https://www.valorant-spind.de/)
 [![Sprache](https://img.shields.io/badge/DE%20%2F%20EN-zweisprachig-1f6feb?style=for-the-badge)](https://www.valorant-spind.de/en/)
 
-<img src="https://www.valorant-spind.de/og-image.png" alt="Valorant-Spind – Spind-Wert, Coach & Tools" width="760" />
+<img src="https://www.valorant-spind.de/og-image.png?v=2" alt="Valorant-Spind – Spind-Wert, Coach & Tools" width="760" />
 
 </div>
 
