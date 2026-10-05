@@ -4,16 +4,18 @@
 
 # Valorant-Spind
 
-### The German Valorant hub: locker value, coach & 40+ tools – plus the free desktop app
+### How much is your Valorant locker worth? Free Windows app with locker value, coach, 2D match replay & 40+ stats – plus 40+ free tools on the website
 
 **🇬🇧 English** · [🇩🇪 Deutsch](README.de.md)
 
-[![Website](https://img.shields.io/badge/Website-valorant--spind.de-E8863C?style=for-the-badge)](https://www.valorant-spind.de/)
-[![App](https://img.shields.io/badge/App-free%20for%20Windows-3fb950?style=for-the-badge&logo=windows)](https://www.valorant-spind.de/valorant-spind-app.html)
-[![100% local](https://img.shields.io/badge/100%25-local%20%C2%B7%20no%20login-8957e5?style=for-the-badge)](https://www.valorant-spind.de/)
-[![Language](https://img.shields.io/badge/DE%20%2F%20EN-bilingual-1f6feb?style=for-the-badge)](https://www.valorant-spind.de/en/)
+[![Version](https://img.shields.io/badge/App-v2.5%20Precision%20Update-E8863C?style=for-the-badge)](https://www.valorant-spind.de/en/changelog.html)
+[![Download](https://img.shields.io/badge/Download-free%20for%20Windows-3fb950?style=for-the-badge&logo=windows)](https://www.valorant-spind.de/en/valorant-spind-app.html)
+[![Discord](https://img.shields.io/badge/Discord-join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/rKqNGPE3hS)
+[![100% local](https://img.shields.io/badge/100%25-local%20%C2%B7%20no%20login-8957e5?style=for-the-badge)](https://www.valorant-spind.de/en/)
 
-<img src="https://www.valorant-spind.de/og-image-en.png" alt="Valorant-Spind – locker value, coach & tools" width="760" />
+<img src="media/hacking-login-intro-en.gif" alt="Valorant-Spind v2.5 – login intro: the app reads your locker locally, then the dashboard opens (Riot ID blurred)" width="560" />
+
+<sub>Real-time capture of the login intro in v2.5 – Riot ID blurred · <a href="media/hacking-login-intro-en.mp4">MP4 version</a></sub>
 
 </div>
 
@@ -24,28 +26,42 @@
 **Valorant-Spind** is an independent German fan project around Valorant – not an official Riot product. It has two parts:
 
 1. **The free desktop app** for Windows – reads your locker locally and analyses your matches like a personal coach.
-2. **The website [valorant-spind.de](https://www.valorant-spind.de/)** – 90+ pages with calculators, guides and interactive tools, fully bilingual (DE/EN) and ad-free.
+2. **The website [valorant-spind.de](https://www.valorant-spind.de/en/)** – 160+ pages with calculators, guides and interactive tools, each in German and English, ad-free.
 
 > **100% local · no account · no tracking · no ads · fan project**
 
+💬 **Join the community on Discord:** [discord.com/invite/rKqNGPE3hS](https://discord.com/invite/rKqNGPE3hS) – app news, changelog, feedback, LFG & giveaways.
+
 ---
 
-## 🖥️ The Valorant-Spind app
+## 🖥️ The Valorant-Spind app – version 2.5
 
-The free Windows app (currently **version 2.4**) connects locally to your running Riot client – **no login, no credentials, no cloud**. Everything stays on your PC.
+The free Windows app (**current version: 2.5 – the Precision Update**, released October 4, 2026) connects locally to your running Riot client – **no login, no credentials, no cloud**. Everything stays on your PC.
+
+### 🆕 New in 2.5 – the Precision Update
+
+| Feature | What it does |
+|---|---|
+| 🎯 **Precision Analysis in the Coach** | A win probability model built from your saved rounds rates every kill, death, plant and defuse by its real impact (round swing). Role-fair lobby comparison (“better than X% of players in your role”) and **your 3 biggest levers** – each with a number, confidence level and a concrete training tip. Runs locally – no AI, no upload. |
+| 📍 **Callouts – where you die** | Your death and kill spots in official map callouts like “B Tower” or “A Main”, per map and side. |
+| 🔫 **Weapon & trade distance** | Duel win rate per weapon and distance, median kill distance, and how often your deaths get traded depending on the distance to your team. |
+| ⭐ **Riot Performance Score** | Riot’s own 0–500 rating with the 8 rating arrows, your history and a lobby comparison. |
+| 📈 **Real RR balance & rank career** | Net RR on the real rank ladder, derank protection, promotions/demotions – plus final rank and peak per act. |
+| 👤 **Multi-account guard** | Detects account switches automatically and reloads Locker and Coach for the right account. |
 
 ### ⭐ Core features
 
 | Feature | What it does |
 |---|---|
-| 💰 **Locker value** | Detects **every skin, knife, spray & card** in your collection, adds up the Valorant Points and converts the total into **euros** at the current VP rate. Pick your **price region** so the euro value matches your own store. Your real account value at a glance – no login, updates live while Valorant runs. |
-| 🎬 **2D match replay** ⭐ | **The centerpiece:** replays your last match **kill by kill** in a 2D tactical view – every position, every angle, every kill. Includes a **highlight finder** for aces & multikills. No cloud tracker can do this. |
-| 🎯 **Coach** | Analyses your real ranked matches: **kill/death heatmaps**, aim analysis & aim trend, an agent tier list and a smurf radar. Shows your biggest weakness with a concrete tip. |
-| 🔒 **100% local** | No login, no data sent to the developer, no ban risk. Runs while Valorant is open. |
+| 💰 **Locker value** | Detects **every skin, knife, spray & card** in your collection, adds up the Valorant Points and converts the total into **euros**. Pick your **price region** so the euro value matches your own store. |
+| 🎬 **2D match replay** | Replays your matches **kill by kill** in a 2D tactical view – positions and view directions of all players, plus a highlight finder for aces & multikills. |
+| 🗺️ **Coach & kill heatmaps** | Analyses your real ranked matches: kill/death heatmaps on the real map, aim analysis & trend, player radar and rank percentile. |
+| 🛒 **Shop & night market** | Daily store, featured bundle, accessory store and night market right inside the app. |
+| 🔒 **100% local** | No login, no credentials, nothing uploaded to the developer. Runs while Valorant is open. |
 
 <div align="center">
 
-### ⬇️ [Download the app for free](https://www.valorant-spind.de/valorant-spind-app.html)
+### ⬇️ [Download the app for free](https://www.valorant-spind.de/en/valorant-spind-app.html) · 📜 [Full changelog](https://www.valorant-spind.de/en/changelog.html) · 💬 [Discord](https://discord.com/invite/rKqNGPE3hS)
 
 </div>
 
@@ -85,29 +101,42 @@ All images (skins, agents, ranks, maps) are pulled live from the **official Valo
 
 ---
 
-## 📸 App screenshots
+## 📸 App screenshots (v2.5)
 
 <div align="center">
 
-**💰 Locker value – every skin, knife & card in VP and euros**
+**💰 Locker value dashboard – total value in VP & €, rank and favorite agent**
 
-<img src="https://www.valorant-spind.de/img/app/app-spindwert.webp" width="760" alt="Valorant-Spind app – locker value in VP and euros" />
+<img src="media/app-dashboard-hero-en.jpg" width="820" alt="Valorant-Spind app v2.5 – locker value dashboard" />
 
 </div>
 
-| 🎬 2D match replay – kill by kill | 🎯 Coach – kill & death heatmap |
+| 🎬 2D match replay – kill by kill | 🎯 Coach precision analysis – your 3 biggest levers |
 |:--:|:--:|
-| <img src="https://www.valorant-spind.de/img/app/app-2d-match-replay.webp" width="400" alt="Valorant-Spind app – 2D match replay" /> | <img src="https://www.valorant-spind.de/img/app/app-kill-heatmap.webp" width="400" alt="Valorant-Spind app – kill heatmap" /> |
-| **🎯 Coach – feedback & your biggest weakness** | **📈 Aim analysis & aim trend** |
-| <img src="https://www.valorant-spind.de/img/app/app-coach-feedback.webp" width="400" alt="Valorant-Spind app – coach feedback" /> | <img src="https://www.valorant-spind.de/img/app/app-aim-trends.webp" width="400" alt="Valorant-Spind app – aim trends" /> |
+| <img src="media/app-2d-replay-en.jpg" width="400" alt="Valorant-Spind app – 2D match replay" /> | <img src="media/app-coach-precision-hero-en.jpg" width="400" alt="Valorant-Spind app – coach precision analysis" /> |
+| **🗺️ Kill heatmap on the real map** | **🎯 Crosshair placement X-ray** |
+| <img src="media/app-kill-heatmap-hero-en.jpg" width="400" alt="Valorant-Spind app – kill heatmap" /> | <img src="media/app-crosshair-xray-en.jpg" width="400" alt="Valorant-Spind app – crosshair placement x-ray" /> |
+| **📍 Callouts & weapon range** | **⭐ Riot Performance Score & RR balance** |
+| <img src="media/app-coach-callouts-distance-en.jpg" width="400" alt="Valorant-Spind app – callouts and weapon range" /> | <img src="media/app-coach-performance-rr-en.jpg" width="400" alt="Valorant-Spind app – Riot Performance Score and RR balance" /> |
+| **🧬 Player radar & rank percentile** | **💎 Skin gallery & rarity score** |
+| <img src="media/app-player-radar-percentile-en.jpg" width="400" alt="Valorant-Spind app – player radar and rank percentile" /> | <img src="media/app-skin-gallery-en.jpg" width="400" alt="Valorant-Spind app – skin gallery" /> |
 
-> All screenshots are real captures of the free Valorant-Spind desktop app, loaded live from **valorant-spind.de**.
+<div align="center">
+
+**🛒 Daily shop, featured bundle & night market**
+
+<img src="media/app-shop-en.jpg" width="620" alt="Valorant-Spind app – shop and night market" />
+
+</div>
+
+> All screenshots are real captures of the free Valorant-Spind desktop app v2.5 (English UI). Player names are blurred.
 
 ---
 
 ## 🛠️ Tech
 
-- **Static website** (HTML/CSS/JS), ~97 pages, no framework – fast & maintainable
+- **App:** Python with an Eel-based HTML/CSS/JS interface, packaged as a self-contained Windows installer
+- **Static website** (HTML/CSS/JS), 160+ pages per language, no framework – fast & maintainable
 - **Bilingual DE/EN** via `<html lang>` + `data-de`/`data-en`
 - **Design:** dark theme, brand color `#E8863C`, fonts Rajdhani + Inter
 - **Images** live from the official Valorant API (media.valorant-api.com via wsrv.nl)
@@ -118,7 +147,9 @@ All images (skins, agents, ranks, maps) are pulled live from the **official Valo
 ## 🔗 Links
 
 - 🌐 Website: **https://www.valorant-spind.de**
-- ⬇️ App download: **https://www.valorant-spind.de/valorant-spind-app.html**
+- ⬇️ App download: **https://www.valorant-spind.de/en/valorant-spind-app.html**
+- 💬 Discord: **[discord.com/invite/rKqNGPE3hS](https://discord.com/invite/rKqNGPE3hS)**
+- 📜 Changelog: **https://www.valorant-spind.de/en/changelog.html**
 - 🎵 TikTok: **[@valorantspind](https://www.tiktok.com/@valorantspind)**
 
 ---
