@@ -23,10 +23,11 @@
 
 ## Was ist Valorant-Spind?
 
-**Valorant-Spind** ist ein unabhängiges deutsches Fan-Projekt rund um Valorant – kein offizielles Riot-Produkt. Es besteht aus zwei Teilen:
+**Valorant-Spind** ist ein unabhängiges deutsches Fan-Projekt rund um Valorant – kein offizielles Riot-Produkt. Es besteht aus drei Teilen:
 
 1. **Die kostenlose Desktop-App** für Windows – liest deinen Spind lokal aus und wertet deine Matches wie ein persönlicher Coach aus.
 2. **Die Website [valorant-spind.de](https://www.valorant-spind.de/)** – über 160 Seiten mit Rechnern, Guides und interaktiven Tools, jeweils auf Deutsch und Englisch, werbefrei.
+3. **[SpindTune](https://github.com/Valorant-Spind/SpindTune/blob/main/README.de.md)** – ein kostenloses Windows-Tool, das deinen PC fürs Gaming aufräumt, aktualisiert und durchcheckt, mit dem Lag Hunter, der zeigt, warum dein Spiel ruckelt.
 
 > **100 % lokal · kein Account · kein Tracking · keine Werbung · Fan-Projekt**
 
@@ -64,6 +65,23 @@ Die kostenlose Windows-App (**aktuelle Version: 2.5 – das Präzisions-Update**
 ### ⬇️ [App kostenlos herunterladen](https://www.valorant-spind.de/valorant-spind-app.html) · 📜 [Changelog](https://www.valorant-spind.de/changelog.html) · 💬 [Discord](https://discord.com/invite/rKqNGPE3hS)
 
 </div>
+
+---
+
+## ⚡ SpindTune – kostenloses PC-Tool für Gamer
+
+<a href="https://github.com/Valorant-Spind/SpindTune/blob/main/README.de.md"><img src="https://github.com/Valorant-Spind/SpindTune/raw/main/media/banner-de.png" alt="SpindTune – kostenloses Windows-Tool zum Aufräumen, Updaten und Ruckler finden" width="100%"></a>
+
+**SpindTune** ist unsere zweite kostenlose Windows-App: Sie räumt deinen PC auf, hält ihn aktuell und checkt ihn durch – mit Fokus auf Gaming. Nichts passiert ohne deinen Klick.
+
+- 🎯 **Lag Hunter** – misst während des Matches jedes Bild und zeigt jeden Ruckler mit Uhrzeit und wahrscheinlicher Ursache (1-%-/0,1-%-Lows, Ping-Zeitleiste)
+- 🎮 **Gaming-Check** – Note von 0 bis 100: Monitor-Hz, RAM, PCIe & Resizable BAR, Treiber-Alter, Windows-Einstellungen, Netzwerk, SSD
+- 🛡️ **Valorant-Check** – TPM 2.0, Secure Boot und alles, was Vanguard braucht, 27 VAN-Fehlercodes erklärt
+- 🧹 **Aufräumen & Updaten** – Datenmüll ohne Registry-Reinigung, Programme über winget, Windows Update, Treiber direkt von NVIDIA oder AMD
+
+**Kein Konto · keine Werbung · keine Telemetrie · Windows 10 & 11 · Version 3.5.0**
+
+### ⚡ [SpindTune auf GitHub](https://github.com/Valorant-Spind/SpindTune/blob/main/README.de.md) · ⬇️ [Kostenlos herunterladen](https://www.valorant-spind.de/spindtune.html#download)
 
 ---
 
@@ -148,6 +166,7 @@ Alle Bilder (Skins, Agenten, Ränge, Maps) stammen live aus der **offiziellen Va
 
 - 🌐 Website: **https://www.valorant-spind.de**
 - ⬇️ App-Download: **https://www.valorant-spind.de/valorant-spind-app.html**
+- ⚡ SpindTune: **[github.com/Valorant-Spind/SpindTune](https://github.com/Valorant-Spind/SpindTune/blob/main/README.de.md)**
 - 💬 Discord: **[discord.com/invite/rKqNGPE3hS](https://discord.com/invite/rKqNGPE3hS)**
 - 📜 Changelog: **https://www.valorant-spind.de/changelog.html**
 - 🎵 TikTok: **[@valorantspind](https://www.tiktok.com/@valorantspind)**
