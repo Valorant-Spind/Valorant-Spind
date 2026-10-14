@@ -23,10 +23,11 @@
 
 ## What is Valorant-Spind?
 
-**Valorant-Spind** is an independent German fan project around Valorant – not an official Riot product. It has two parts:
+**Valorant-Spind** is an independent German fan project around Valorant – not an official Riot product. It has three parts:
 
 1. **The free desktop app** for Windows – reads your locker locally and analyses your matches like a personal coach.
 2. **The website [valorant-spind.de](https://www.valorant-spind.de/en/)** – 160+ pages with calculators, guides and interactive tools, each in German and English, ad-free.
+3. **[SpindTune](https://github.com/Valorant-Spind/SpindTune)** – a free Windows tool that cleans up, updates and checks your PC for gaming, with the Lag Hunter that shows why your game stutters.
 
 > **100% local · no account · no tracking · no ads · fan project**
 
@@ -64,6 +65,23 @@ The free Windows app (**current version: 2.5 – the Precision Update**, release
 ### ⬇️ [Download the app for free](https://www.valorant-spind.de/en/valorant-spind-app.html) · 📜 [Full changelog](https://www.valorant-spind.de/en/changelog.html) · 💬 [Discord](https://discord.com/invite/rKqNGPE3hS)
 
 </div>
+
+---
+
+## ⚡ SpindTune – free PC tool for gamers
+
+<a href="https://github.com/Valorant-Spind/SpindTune"><img src="https://github.com/Valorant-Spind/SpindTune/raw/main/media/banner-en.png" alt="SpindTune – free Windows tool to clean up, update and find every stutter" width="100%"></a>
+
+**SpindTune** is our second free Windows app: it cleans up, updates and checks your PC – with a focus on gaming. Nothing happens without your click.
+
+- 🎯 **Lag Hunter** – measures every frame during a match and shows each stutter with its time and likely cause (1 % / 0.1 % lows, ping timeline)
+- 🎮 **Gaming Check** – score from 0 to 100: monitor Hz, RAM, PCIe & Resizable BAR, driver age, Windows settings, network, SSD
+- 🛡️ **Valorant Check** – TPM 2.0, Secure Boot and everything Vanguard needs, 27 VAN error codes explained
+- 🧹 **Clean up & update** – junk files without registry cleaning, apps via winget, Windows Update, drivers straight from NVIDIA or AMD
+
+**No account · no ads · no telemetry · Windows 10 & 11 · version 3.5.0**
+
+### ⚡ [SpindTune on GitHub](https://github.com/Valorant-Spind/SpindTune) · ⬇️ [Download for free](https://www.valorant-spind.de/en/spindtune.html#download)
 
 ---
 
@@ -148,6 +166,7 @@ All images (skins, agents, ranks, maps) are pulled live from the **official Valo
 
 - 🌐 Website: **https://www.valorant-spind.de**
 - ⬇️ App download: **https://www.valorant-spind.de/en/valorant-spind-app.html**
+- ⚡ SpindTune: **[github.com/Valorant-Spind/SpindTune](https://github.com/Valorant-Spind/SpindTune)**
 - 💬 Discord: **[discord.com/invite/rKqNGPE3hS](https://discord.com/invite/rKqNGPE3hS)**
 - 📜 Changelog: **https://www.valorant-spind.de/en/changelog.html**
 - 🎵 TikTok: **[@valorantspind](https://www.tiktok.com/@valorantspind)**
